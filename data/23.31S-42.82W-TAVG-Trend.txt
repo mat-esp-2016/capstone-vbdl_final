@@ -1,71 +1,71 @@
-% This file contains an extracted local summary of land-surface 
-% temperature results produced by the Berkeley Earth averaging 
-% method for the location: 
-% 
+% This file contains an extracted local summary of land-surface
+% temperature results produced by the Berkeley Earth averaging
+% method for the location:
+%
 %    23.31 S, 42.82 W
-% 
-% The Berkeley Earth method takes temperature observations from a large 
-% collection of weather monitoring stations and produces an estimate of 
-% the underlying global temperature field across all of the Earth's 
-% land areas.  Once this temperature field has been generated, it is 
-% possible to estimate the temperature evolution of individual locations 
-% simply by sampling the field at the locaiton in question.  This 
+%
+% The Berkeley Earth method takes temperature observations from a large
+% collection of weather monitoring stations and produces an estimate of
+% the underlying global temperature field across all of the Earth's
+% land areas.  Once this temperature field has been generated, it is
+% possible to estimate the temperature evolution of individual locations
+% simply by sampling the field at the locaiton in question.  This
 % file contains such a local estimate.
-% 
-% Temperatures are in Celsius and reported as anomalies relative to the 
-% Jan 1951-Dec 1980 average.  Uncertainties represent the 95% confidence 
-% interval for statistical noise and spatial undersampling effects.  Such 
-% uncertainties are expected to account for the effects of random 
-% noise as well as random biases affecting station trends and random 
-% shifts in station baselines.  The analysis framework is expected to be 
-% robust against most forms of bias; however, the impact of some forms of 
+%
+% Temperatures are in Celsius and reported as anomalies relative to the
+% Jan 1951-Dec 1980 average.  Uncertainties represent the 95% confidence
+% interval for statistical noise and spatial undersampling effects.  Such
+% uncertainties are expected to account for the effects of random
+% noise as well as random biases affecting station trends and random
+% shifts in station baselines.  The analysis framework is expected to be
+% robust against most forms of bias; however, the impact of some forms of
 % possible systematic bias is still being studied.
-% 
-% The current dataset presented here is described as: 
-% 
+%
+% The current dataset presented here is described as:
+%
 %   Berkeley Earth analysis for mean temperature on complete dataset
-% 
-% 
+%
+%
 % This analysis was run on 12-Oct-2013 00:45:15
-% 
-% Global results are based on 39348 time series 
+%
+% Global results are based on 39348 time series
 %   with 15244148 data points
-% 
-% The current location is characterized by: 
+%
+% The current location is characterized by:
 %   Country: Brazil
-%   Nearby Cities: Rio de Janeiro, Nova Iguaçu, São Gonçalo, Duque de Caxias
+%   Nearby Cities: Rio de Janeiro, Nova IguaÃ§u, SÃ£o GonÃ§alo, Duque de Caxias
 %   Percent water in local neighborhood: 71.5 %
 %   Temperature stations within 200 km: 11
 %   Temperature obeservations within 200 km: 4877
-% 
-% Note that all results reported here are derived from the full field 
-% analysis and may use information from stations a great distance from the 
-% target location when more local sources are not available.  In general, 
-% the temperature anomaly field has significant correlation extending over 
-% greater than 1000 km, which allows even distant stations to provide some 
-% insight at times when local coverage may be lacking. 
-% 
+%
+% Note that all results reported here are derived from the full field
+% analysis and may use information from stations a great distance from the
+% target location when more local sources are not available.  In general,
+% the temperature anomaly field has significant correlation extending over
+% greater than 1000 km, which allows even distant stations to provide some
+% insight at times when local coverage may be lacking.
+%
 % Estimated Jan 1951-Dec 1980 absolute temperature (C): 24.01 +/- 1.05
-% 
+%
 % Estimated Jan 1951-Dec 1980 monthly absolute temperature (C):
 %      Jan    Feb    Mar    Apr    May    Jun    Jul    Aug    Sep    Oct    Nov    Dec
 %      25.91  26.67  26.40  24.88  23.99  23.41  22.81  22.52  22.12  22.18  22.93  24.34
 % +/-   1.09   1.08   1.07   1.07   1.10   1.11   1.11   1.09   1.07   1.06   1.09   1.10
-% 
-% For each month, we report the estimated land-surface anomaly for that 
-% month and its uncertainty.  We also report the corresponding values for 
-% year, five-year, ten-year, and twenty-year moving averages CENTERED about 
-% that month (rounding down if the center is in between months).  For example, 
-% the annual average from January to December 1950 is reported at June 1950. 
-% 
-% Values are reported as missing (i.e. NaN) when station coverage near 
-% this location becomes too low.  Time averages over intervals with some 
-% missing data will be reported as long as at least 75% of the necessary 
+%
+% For each month, we report the estimated land-surface anomaly for that
+% month and its uncertainty.  We also report the corresponding values for
+% year, five-year, ten-year, and twenty-year moving averages CENTERED about
+% that month (rounding down if the center is in between months).  For example,
+% the annual average from January to December 1950 is reported at June 1950.
+%
+% Values are reported as missing (i.e. NaN) when station coverage near
+% this location becomes too low.  Time averages over intervals with some
+% missing data will be reported as long as at least 75% of the necessary
 % values are available.
-% 
+%
 %                  Monthly          Annual          Five-year        Ten-year        Twenty-year
 % Year, Month,  Anomaly, Unc.,   Anomaly, Unc.,   Anomaly, Unc.,   Anomaly, Unc.,   Anomaly, Unc.
- 
+
   1832     1    -0.590  1.508       NaN    NaN       NaN    NaN       NaN    NaN       NaN    NaN
   1832     2    -0.086  3.841       NaN    NaN       NaN    NaN       NaN    NaN       NaN    NaN
   1832     3    -0.981  1.685    -1.049  0.928       NaN    NaN       NaN    NaN       NaN    NaN
